@@ -2,6 +2,11 @@
 
 - 📫 How to reach me: busrabudan@outlook.com
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=busrabudan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busrabudan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>Backend</p>
 
 <blockquote>
